@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# OS Files
+.DS_Store
+
+# Data
+*.csv
+*.xlsx
+*.h5
+
